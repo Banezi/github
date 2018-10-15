@@ -13,3 +13,6 @@ git add . : permet d'ajouter tous les fichiers du repertoire courant
 git commit -m "Message du commit: Ajout du fichier...." : commande à exécuter après chaque git add.
 
 git log : permet d'afficher l'historique des commmit
+
+Pour ne pas faire git add ..... à chaque modification, il faut ajouter l'option -a au git commit, cela permet de prendre en compte les modifications des fichiers deja ajoutés dans l'index.
+git commit -a -m "Message du commit"
