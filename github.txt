@@ -40,3 +40,4 @@ git clone urlrepository
 cd nomrepository
 	faire des modif et des commit
 git push origin master : envoie des modifications sur github
+git push : tout simple, marche aussi
