@@ -8,6 +8,6 @@ git status : si le dossier courant est un repository git, en faisant git status,
 
 
 git add nomdufichier : permet d'ajouter le fichier à l'index
+git add . : permet d'ajouter tous les fichiers du repertoire courant
 git commit -m "Message du commit: Ajout du fichier...." : commande à exécuter après chaque git add.
 
-une modification non prise en compte.
