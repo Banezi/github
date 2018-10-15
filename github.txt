@@ -25,3 +25,9 @@ git checkout master : se positionner au dernier commit
 ****************** Récuperer du code d'un autre repository ******
 Se postionner dans le repertoire où on veut stocker le repository
 git clone urldurepository
+
+**** Envoyer votre code dans un nouveau repository github  ******
+Créer un nvo repository github
+Se placer dans le repository local
+git remote add origin urldunvorepositorygithub
+git push -u origin master
