@@ -5,4 +5,8 @@ git init : permet de signaler que le dossier courant est un repository git
 
 
 git status : si le dossier courant est un repository git, en faisant git status, on saura les fichiers non traqués et les differents commit.
+
+
 git add nomdufichier : permet d'ajouter le fichier à l'index
+git commit -m "Message du commit: Ajout du fichier...." : commande à exécuter après chaque git add.
+
