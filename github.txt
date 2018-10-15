@@ -21,5 +21,3 @@ git commit -am "Astuce -am ça marche"
 git checkout fifjjie655644rzhhd : se positionner à commit dont le sha est fifjjie655644rzhhd. Le sha s'obtient en faisant un git log
 
 git checkout master : se positionner au dernier commit
-
-Annulation des commit
