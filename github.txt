@@ -34,3 +34,9 @@ git push -u origin master
 
 Pour envoyer les dernieres modifications faites sur la machine sur github, il faut exécuter :
 git push -u origin master en local après chaque commit
+
+************* Cloner un nvo repository github sur sa machine ***********************
+git clone urlrepository
+cd nomrepository
+	faire des modif et des commit
+git push origin master : envoie des modifications sur github
