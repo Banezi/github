@@ -31,3 +31,6 @@ Créer un nvo repository github
 Se placer dans le repository local
 git remote add origin urldunvorepositorygithub
 git push -u origin master
+
+Pour envoyer les dernieres modifications faites sur la machine sur github, il faut exécuter :
+git push -u origin master en local après chaque commit
