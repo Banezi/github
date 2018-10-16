@@ -46,3 +46,4 @@ git push : tout simple, marche aussi
 *********************** Récupeartion des modifications sur Github   *****************
 Pour récuperer les dernières modifications sur Github, on se place dans le repository local puis on exécute 
 git pull origin master
+git pull : marche aussi
