@@ -42,3 +42,7 @@ cd nomrepository
 	faire des modif et des commit
 git push origin master : envoie des modifications sur github
 git push : tout simple, marche aussi
+
+*********************** Récupeartion des modifications sur Github   *****************
+Pour récuperer les dernières modifications sur Github, on se place dans le repository local puis on exécute 
+git pull origin master
