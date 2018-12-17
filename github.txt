@@ -47,3 +47,19 @@ git push : tout simple, marche aussi
 Pour récuperer les dernières modifications sur Github, on se place dans le repository local puis on exécute 
 git pull origin master
 git pull : marche aussi
+
+
+
+
+=================================================================================================================================
+				Cours Conduite de Projet Web
+=================================================================================================================================
+Les commandes de bases :
+clone
+push: permet f'envoyer au depot des modifications lacales
+pull
+merge
+fetch
+
+git remote add origin https://.......git
+
