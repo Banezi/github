@@ -63,3 +63,29 @@ fetch
 
 git remote add origin https://.......git
 
+======================================================================================
+		Gestion des branches
+======================================================================================
+git commit
+git push
+git outofhere
+
+Tag : pas de changement
+Branche : evolue
+
+Operations sur les branches
+Lister les branches locales et distantes : git branch // git branch -r // git branch -a
+Creer de branches locales : git branch nomBranche
+Supprimer des branches locales : git branch -d nomBranche
+Diffuser une branche locale sur le depot distant 
+Basculer d'une branche à l'autre : git checkout nomBranche
+
+Gestion des conflits
+git merge featureX
+
+Rebase
+Tag
+Un tag est une reference à un commit
+Lister les tags : git tag
+
+Gitflow
